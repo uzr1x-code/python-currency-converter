@@ -19,3 +19,5 @@ This project allows users to convert amounts between different currencies using 
 ```bash
 git clone https://github.com/uzr1x-code/python-currency-converter.git
 cd python-currency-converter
+
+python currency_converter.py

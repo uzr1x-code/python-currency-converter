@@ -21,3 +21,7 @@ git clone https://github.com/uzr1x-code/python-currency-converter.git
 cd python-currency-converter
 
 python currency_converter.py
+Enter the currency you have: USD
+Enter the currency you want: PKR
+Enter amount in USD: 10
+10 USD = 2845.00 PKR
